@@ -1,0 +1,5 @@
+we are doing emgency fix from emergency branch
+
+We are testing the conflict using file1
+
+testing the conflict
