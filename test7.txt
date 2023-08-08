@@ -1,0 +1,6 @@
+These are the changes for conflict test
+
+
+from new branch1
+
+from new-br2
